@@ -359,7 +359,7 @@ bool ofxTextBlock::wrapTextForceLines(int linesN){
         }
 
     }
-
+    return false;
 }
 
 
